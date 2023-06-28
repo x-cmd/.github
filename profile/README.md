@@ -6,7 +6,7 @@
 
 🍿 From the original idea to X-CMD: typescript(prototype) => go(almost finished) => bash => shawk(shell + awk, Big Bang! Then two years of misery.)
 
-🍿 Fun facts - I was inspired by staring Thanos' Infinity Gauntlet while queuing at the cinema. 
+🍿 Fun facts - I was inspired while staring at Thanos' Infinity Gauntlet, queuing at the cinema.
 
 🧙 YES. X-CMD is your infinite guantlet. The power of it comes from the open source tools. May the open-source campaign and those good people live long and proper 🖖.
 
