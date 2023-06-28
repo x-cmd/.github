@@ -1,11 +1,17 @@
 ## Hi there 👋
 
-🙋‍♀️ A short introduction - Renaissance of TUI
-👩‍💻 Useful update resources -  https://x-cmd.com
-🍿 From the original idea to X-CMD: typescript(prototype) => go(almost finished) => bash => shawk(shell + awk, then realized it had much more potential beyond imagination.)
+🙋‍♀️ Happy to be part of the Renaissance of command line.
+
+👩‍💻 Always welcome to get update from https://x-cmd.com.
+
+🍿 From the original idea to X-CMD: typescript(prototype) => go(almost finished) => bash => shawk(shell + awk, Big Bang! Then two years of misery.)
+
 🍿 Fun facts - I was inspired by staring Thanos' Infinity Gauntlet while queuing at the cinema. 
+
 🧙 YES. X-CMD is your infinite guantlet. The power of it comes from the GREATE open source tools. 
+
 🧙 This tool can also be your mighty hammer. It can be your powerful Excalibur over the cloud. Let's use it for the peace and goodness.
+
 🧙 This is the way.
 
 <!--
