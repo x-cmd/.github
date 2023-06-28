@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, Commander 👋 
 
 🙋‍♀️ Happy to be part of the Renaissance of command line.
 
