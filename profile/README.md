@@ -8,9 +8,9 @@
 
 🍿 Fun facts - I was inspired by staring Thanos' Infinity Gauntlet while queuing at the cinema. 
 
-🧙 YES. X-CMD is your infinite guantlet. The power of it comes from the GREATE open source tools. 
+🧙 YES. X-CMD is your infinite guantlet. The power of it comes from the GREATE open source tools. Please don't waste it for evil.
 
-🧙 This tool can also be your mighty hammer. It can be your powerful Excalibur over the cloud. Let's use it for the peace and goodness.
+🧙 X-CMD can also be your mighty hammer, your powerful Excalibur over the cloud. Let's use it for the peace and goodness.
 
 🧙 This is the way.
 
