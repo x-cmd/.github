@@ -4,7 +4,7 @@
 
 👩‍💻 Always welcome to get update from https://x-cmd.com.
 
-🍿 From the original idea to X-CMD: typescript(prototype) => go(almost finished) => bash => shawk(shell + awk, Big Bang! Then two years of misery.)
+🍿 From the original idea to X-CMD: typescript(finsihed. Then found deno.) => go(almost finished) => bash => shawk(shell + awk, Big Bang! Then two years of misery.)
 
 🍿 Fun facts - I was inspired while staring at Thanos' Infinity Gauntlet, queuing at the cinema.
 
