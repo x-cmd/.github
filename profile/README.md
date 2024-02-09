@@ -4,11 +4,11 @@
 
 👩‍💻 Always welcome to get update from https://x-cmd.com.
 
-🍿 From the original idea to X-CMD: typescript(finished. Then found deno.) => go(almost finished) => bash => shawk(shell + awk, Big Bang! Then two years of misery.)
+🍿 From the original idea to X-CMD: typescript(finished. Then found deno.) => go(almost finished) => bash => shawk(shell + awk, Big Bang! Then three years of misery.)
 
 🍿 Fun facts - I was inspired while staring at Thanos' Infinity Gauntlet, queuing at the cinema.
 
-🧙 YES. X-CMD is your infinite guantlet. The power of it comes from the open source tools. May the open-source campaign and those good people live long and proper 🖖.
+🧙 YES. X-CMD is your infinite guantlet. The power of it comes from the open source tools. May the open-source campaign and those good people Live Long and Prosper 🖖.
 
 🧙 X-CMD can be your mighty hammer, your powerful Excalibur over the cloud. Let's use it for the peace and goodness.
 
